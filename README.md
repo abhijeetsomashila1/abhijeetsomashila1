@@ -1,4 +1,4 @@
-# 🍀 About Me:
+# 🍀 About Me (⌐■_■) :
 I'm an Electronics & Communication Engineering undergraduate passionate about Embedded Systems, IoT, and wireless communication technologies. I enjoy building things that bridge the gap between hardware and software, turning ideas into prototypes and prototypes into real world solutions.
 
 Currently working as a Research Intern at the Smart City Research Centre, IIIT Hyderabad.<br>
