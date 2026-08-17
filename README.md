@@ -1,10 +1,10 @@
-# 🍀 About Me (⌐■_■) :
+# 🍀About Me (⌐■_■) :
 I'm an Electronics & Communication Engineering undergraduate passionate about Embedded Systems, IoT, and wireless communication technologies. I enjoy building things that bridge the gap between hardware and software, turning ideas into prototypes and prototypes into real world solutions.
 
 Currently working as a Research Intern at the Smart City Research Centre, IIIT Hyderabad.<br>
 
 
-## 🌐 Socials:
+## 🌐Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-somashila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absomashila@gmail.com) 
 
 ## 💻 Tech Stack:
