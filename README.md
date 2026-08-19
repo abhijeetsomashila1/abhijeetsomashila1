@@ -4,8 +4,6 @@ I'm an Electronics & Communication Engineering undergraduate passionate about Em
 
 Currently working as a Research Intern at the Smart City Research Centre, IIIT Hyderabad.<br>
 
-<img width="180" height="199" alt="12ipfr9ck2ce1" src="https://github.com/user-attachments/assets/5bc22906-8278-4309-93bc-49c4cdca4445" /> <br>
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhijeet-somashila) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:absomashila@gmail.com) 
 
