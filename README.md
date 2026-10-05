@@ -11,7 +11,7 @@ Currently working as a Research Intern at the Smart City Research Centre, IIIT H
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) 
-![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=Mathworks)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Verilog](https://img.shields.io/badge/Verilog-%23F00000.svg?style=for-the-badge&logoColor=white)
 
